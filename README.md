@@ -3,6 +3,25 @@
 **Location:** Belgrade, Serbia  
 **Email:** filipradosavljevic.ui@gmail.com
 
+## Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+</p>
+
 ## Career Overview
 
 Hello,
@@ -14,6 +33,7 @@ I am a mobile/web developer with 12 years of programming experience. I have part
 - Web development (Python, Java, PHP, HTML5, Node.js, React)
 - Hybrid app development with React Native or Flutter
 - Windows & Linux application development using JAVA/C++/C#/Qt
+- Blockchain development with Web3, Ethereum, Solidity, Solana, Rust
 
 ## Skills
 
@@ -33,6 +53,12 @@ I am a mobile/web developer with 12 years of programming experience. I have part
 - Web Message Chatting Development using Firebase
 - Web Video Chatting Development using WebRTC
 - Web Server Security
+
+### Blockchain Developer
+- Blockchain development with Web3, Ethereum, Solidity
+- Smart Contract development and deployment on Ethereum
+- Solana development using Rust
+- DApp development and integration with various blockchain networks
 
 ### Database Administrator
 - DB design, optimization, monitoring and maintaining using MySQL & MariaDB
